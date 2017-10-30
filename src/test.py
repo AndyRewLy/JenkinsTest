@@ -1,6 +1,6 @@
 
 def main():
-   print "ok1"
+   print "ok2"
    print "Hello World23"
 
 main()
